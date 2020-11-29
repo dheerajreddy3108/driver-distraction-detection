@@ -50,7 +50,7 @@ Data visualization graphs are shown below.
 
 
 
-_**TAKE AWAYS FROM THE PROJECT **_
+_**TAKE AWAYS FROM THE PROJECT**_
 
 **Avoiding over-fitting:**
 
