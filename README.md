@@ -18,7 +18,7 @@ OpenCV - 4.4
 
 Pandas - 1.0.5
 
-**Information on Project : **
+**Information on Project :**
 
 According to CDC motor vehicle safety division, 2 in 10 car accidents happens due to the involvement of driver engaging in other activities like texting while driving, applying cosmetics, engaging in discussion with fellow passengers and so on. Statistics show that 425,000 people getting injured every year and death toll of 3000 is recorded. The moto was the challenge was State Farm hopes to improve these alarming statistics and better insurance policies their customers by testing whether dashboard cameras can automatically detect drivers engaging in distracted behaviors. Here we were a dataset set captured from 2D cameras attached to the dashboard. The challenge of the task is to classify the behavior of the distraction from driver. This helps us to give some alarming warnings to the driver real life live video classification when he is distracting from driving. Few of alarming techniques we can use are red light blink or giving a beep sound. 
 
