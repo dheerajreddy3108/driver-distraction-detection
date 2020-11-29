@@ -50,8 +50,10 @@ Data visualization graphs are shown below.
 
 
 
-Take aways from the model
-Avoiding over-fitting:
+_**TAKE AWAYS FROM THE PROJECT **_
+
+**Avoiding over-fitting:**
+
 When we see a problem of model overfitting the given input training data, we should look at few steps to avoid overfitting:
 Adding more images
 Making use of Image Data Augmentation
