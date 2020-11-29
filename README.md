@@ -43,6 +43,11 @@ $ pip install <package-name>
  
 Data visualization graphs are shown below.
 
+![download](https://user-images.githubusercontent.com/55786239/100540602-8d01d200-323e-11eb-9b3a-0ca32355d805.png)
+
+
+![download (1)](https://user-images.githubusercontent.com/55786239/100540619-a145cf00-323e-11eb-86f1-4c33b371cf48.png)
+
 
 
 Take aways from the model
